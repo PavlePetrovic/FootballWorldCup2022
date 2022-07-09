@@ -1,0 +1,498 @@
+[
+    [   
+        { 
+            "group": "A", 
+            "name": "Ekvador", 
+            "rank": 46, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "A", 
+            "name": "Katar", 
+            "rank": 51, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "A", 
+            "name": "Senegal", 
+            "rank": 20, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "A", 
+            "name": "Holandija", 
+            "rank": 10, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "B", 
+            "name": "Engleska", 
+            "rank": 5, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "B", 
+            "name": "Iran", 
+            "rank": 21, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "B", 
+            "name": "SAD", 
+            "rank": 15, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "B", 
+            "name": "Ukrajina", 
+            "rank": 27, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "C", 
+            "name": "Argentina", 
+            "rank": 4, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "C", 
+            "name": "Saudijska Arabija", 
+            "rank": 49, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "C", 
+            "name": "Meksiko", 
+            "rank": 9, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "C", 
+            "name": "Poljska", 
+            "rank": 26, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "D", 
+            "name": "Francuska", 
+            "rank": 3, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "D", 
+            "name": "Peru", 
+            "rank": 22, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "D", 
+            "name": "Danska", 
+            "rank": 11, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "D", 
+            "name": "Tunis", 
+            "rank": 35, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "E", 
+            "name": "Spanija", 
+            "rank": 7, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "E", 
+            "name": "Novi Zeland", 
+            "rank": 101, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "E", 
+            "name": "Nemacka", 
+            "rank": 12, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "E", 
+            "name": "Japan", 
+            "rank": 23, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "F", 
+            "name": "Belgija", 
+            "rank": 2, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "F", 
+            "name": "Kanada", 
+            "rank": 38, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "F", 
+            "name": "Maroko", 
+            "rank": 24, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "F", 
+            "name": "Hrvatska", 
+            "rank": 16, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "G", 
+            "name": "Brazil", 
+            "rank": 1, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "G", 
+            "name": "Srbija", 
+            "rank": 25, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "G", 
+            "name": "Svajcarska", 
+            "rank": 14, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "G", 
+            "name": "Kamerun", 
+            "rank": 37, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ],
+    [   
+        { 
+            "group": "H", 
+            "name": "Portugal", 
+            "rank": 8, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "H", 
+            "name": "Gana", 
+            "rank": 60, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "H", 
+            "name": "Urugvaj", 
+            "rank": 13, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        },
+        { 
+            "group": "H", 
+            "name": "Juzna Koreja", 
+            "rank": 29, 
+            "stats": { 
+                "win": 0, 
+                "los": 0, 
+                "same": 0, 
+                "passG": 0, 
+                "recG": 0 
+            }, 
+            "score": 0, 
+            "played": [], 
+            "playedStats": [] 
+        }
+    ]
+]
