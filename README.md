@@ -9,7 +9,7 @@ Console simulation of football world cup 2022 build with JavaScript
 
 ## General info
 
-This is my version of Qatar football world cup 2022. The idea of this project is to follow draw groups, and then to follow the official rules of the world cup for the game. In .JSON file I have made a data-model for all teams, as well as their stats. Stats for every team is update after every played match. If a match is draw, the winning team is picked randomly. Take a look, its be fun.
+This is my version of the Qatar football world cup 2022. The idea of this project is to follow draw groups, and then follow the official rules of the world cup for the game. In the JSON file, I have made a data model for all teams, as well as their stats. Stats for every team is updated after every played match. If a match is drawn, the winning team is picked randomly. Take a look, it be fun.
 
 ## How to start
 
